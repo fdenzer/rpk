@@ -1,0 +1,10 @@
+first version:
+	Frank/UI:
+		- show character sheet on smart-phone/tablet in such a way that it is "paper-like" and integrates with the pen&paper style
+		- read-only
+		- no extras
+
+	Simon/GM:
+		- versioning/history of all objects
+		- character data
+		- read GCS files and convert to RPK

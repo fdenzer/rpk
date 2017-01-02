@@ -1,0 +1,8 @@
+Features:
+	- multiple identities
+	- multiple structural trees
+	- tag based searching
+	- groups which auto collect all items based on a search expression
+	- bonus/malus with condition (e.g. +2 to vision in the presence of UV light)
+	- scenes (night vision malus)
+	- race and hit-location switching
